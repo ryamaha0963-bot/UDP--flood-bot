@@ -6,10 +6,10 @@ from threading import Thread
 from pyrogram import Client, filters
 
 # 🔧 APNA CONFIG YAHAN DALO
-API_ID = 12345  # my.telegram.org se lo
-API_HASH = "your_api_hash"  # my.telegram.org se lo
-BOT_TOKEN = "your_bot_token"  # @BotFather se lo
-ADMIN_ID = 123456789  # Apna Telegram ID
+API_ID = 37460343  # my.telegram.org se lo
+API_HASH = "cf2d690b275e8d53a51fc69a15270437"  # my.telegram.org se lo
+BOT_TOKEN = "8649236048:AAGcrxGdeSZpwcjtuMF-9zDKzyVISml-yNQ"  # @BotFather se lo
+ADMIN_ID = 8819216195  # Apna Telegram ID
 
 bot = Client("udp_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
